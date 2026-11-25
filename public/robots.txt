@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://stockcairn.top/sitemap.xml
+Sitemap: https://stockcairn.site/sitemap.xml

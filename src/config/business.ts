@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'stockcairn',
   name: 'StockCairn',
-  domain: 'stockcairn.top',
-  email: 'chukwudi@stockcairn.top',
+  domain: 'stockcairn.site',
+  email: 'chukwudi@stockcairn.site',
   tagline: 'Make inventory allocation more intelligent.',
   industries: ['Wholesale', 'Retail', 'Supply Chain Management'],
   description:

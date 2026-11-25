@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for StockCairn.
 - Industry: Wholesale, Retail, Supply Chain Management
 - Founder: Chukwudi Ofor (Founder & CEO)
 - Co-founder: Abdulrahman Bello (Co-founder & CTO)
-- Contact: chukwudi@stockcairn.top
+- Contact: chukwudi@stockcairn.site
 - Business model: Inventory-volume subscriptions
 
 ## Stack
