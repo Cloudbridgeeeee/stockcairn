@@ -1,0 +1,16 @@
+{
+  "name": "StockCairn",
+  "short_name": "StockCairn",
+  "description": "AI inventory analytics software that predicts slow-moving merchandise and identifies opportunities to improve stock allocation across business locations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1114",
+  "theme_color": "#0b1114",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
